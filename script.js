@@ -18,15 +18,15 @@ const rightContainer = document.getElementById("right-photos");
 const rightImg = document.getElementById("rightImg");
 
 const leftSlides = [
-  "faith1.JPG",
-  "faith2.JPG",
+  "faith1.jpg",
+  "faith2.jpg",
   "faith3.jpg",
   "faith4.jpg",
   "faith5.jpg"
 ];
 
 const rightSlides = [
-    "us1.PNG",
+    "us1.png",
     "us2.jpg",
     "us3.jpg",
     "us4.jpg",
