@@ -152,14 +152,6 @@ p{
   border-radius: 12px;
 }
 
-#letter-container {
-    display: none;
-    position: fixed;
-    inset: 0;
-    justify-content: center;
-    align-items: center;
-}
-
 /* SIDE PHOTOS */
 #left-photos {
   position: absolute;
