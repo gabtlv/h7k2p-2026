@@ -26,7 +26,7 @@ const leftSlides = [
 ];
 
 const rightSlides = [
-    "us1.png",
+    "us1.PNG",
     "us2.jpg",
     "us3.jpg",
     "us4.jpg",
